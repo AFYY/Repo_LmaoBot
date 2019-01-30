@@ -1,0 +1,11 @@
+{
+  "name": "LmaoBot",
+  "version": "0.0.1",
+  "main": "bot.js",
+  "description": "LmAO BoT",
+  "author": "CHKN",
+  "dependencies": {
+    "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+    "winston": "^3.2.1"
+  }
+}
