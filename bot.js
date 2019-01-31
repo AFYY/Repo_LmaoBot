@@ -44,7 +44,7 @@ bot.on('message', function (user, userID, channelID, message, evt) {
             case 'andi':
                 bot.sendMessage({
                     to: channelID,
-                    message: 'Has Scathatch and 20 top 10 waifus but Ali has no Darkness'
+                    message: 'Has Scathatch and 30 top 10 waifus but Ali has no Darkness'
                 });
         break;
             // Just add any case commands if you want to..
