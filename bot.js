@@ -37,7 +37,7 @@ bot.on('message', function (user, userID, channelID, message, evt) {
                 case 'mike':
                     bot.sendMessage({
                         to: channelID,
-                        message: 'Already has 3 Sabers and Ali has no darkness'
+                        message: 'EXCALIBAHHHHHHHHHH'
                     });
             break;
 
