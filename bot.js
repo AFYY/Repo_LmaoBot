@@ -19,7 +19,7 @@ client.on("message", (message) => {
   }
 
   else if (message.content.toLowerCase() == "$andi") {
-    message.channel.send("raiding in runescape");
+    message.channel.send("Looking for Kurisu Makise");
   }
 
 });
